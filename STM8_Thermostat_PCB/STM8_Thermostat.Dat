@@ -1,0 +1,17 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~119|Field=Description~String~Description~111|Field=Designator~String~Designator~111|Field=Footprint~String~Footprint~111|Field=LibRef~String~LibRef~111|Field=Quantity~Integer~Quantity~116|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~STM8_Thermostat.PrjPcb|ReportField=ProjectFullPath~D:\Thermostat\STM8_Thermostat\STM8_Thermostat.PrjPcb|ReportField=Title~Bill of Materials For Project [STM8_Thermostat.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~29|ReportField=ReportTime~20:12:22|ReportField=ReportDate~27.12.2016|ReportField=ReportDateTime~27.12.2016 20:12:22|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~27.12.2016|ReportField=CurrentTime~20:11:25|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Thermostat\STM8_Thermostat\Schema.SchDoc|ReportField=DocumentName~Schema.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~27.12.2016|ReportField=Organization~|ReportField=ProjectName~STM8_Thermostat.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~STM8_Thermostat.PrjPcb|ReportField=DataSourceFullPath~D:\Thermostat\STM8_Thermostat\STM8_Thermostat.PrjPcb
+1|BAP65-03||D1, D2||Diode|2
+2|Capacitor||C1, C2, C3, C4, C5, C6|CAPC3116X06N|Capacitor|6
+3|Capacitor (Polarized)||C8|BigCapacitor|Capacitor (Polarized)|1
+4|EL817D||V1||Optocoupler|1
+5|Ionistor||C7||Ionistor|1
+6|Jumper||JP1, JP2|Jumper|Jumper|2
+7|KBD_Connector||X2||KBD_Connector|1
+8|LM1117||DA1, DA2|SOT230P700X180-4N|LM1117|2
+9|MOSFET||VT1||MOSFET|1
+10|OptOutput||X3, X5, X6||OptOutput|3
+11|Oscillator_small||ZQ1|KX-26|Oscillator_small|1
+12|Resistor (0.05W)||R1, R2, R3, R4|RESC3116X06N|Resistor (0.05W)|4
+13|STM8L051F3P6||DD1||STM8L051F3P6 (TSSOP-20)|1
+14|SWIM_Connector||X1||SWIM_Connector|1
+15|Variable_Resistor||RP1||Variable_Resistor|1
+16|WH1601||X4||WH1601|1

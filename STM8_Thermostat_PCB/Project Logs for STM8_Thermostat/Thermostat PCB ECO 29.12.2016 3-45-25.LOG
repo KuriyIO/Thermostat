@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD Pin=X?-2
+Removed Pin From Net: NetName=NetDD1_19 Pin=X?-2
+Change Component Designator: OldDesignator=X? NewDesignator=X2

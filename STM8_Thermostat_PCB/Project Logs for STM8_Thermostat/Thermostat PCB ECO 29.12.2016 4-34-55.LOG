@@ -1,0 +1,29 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPACITOR SMD 1206 New Footprint=CAPACITOR SMD 1206
+Change Physical Footprint: Designator=C2 Old Footprint=CAPACITOR SMD 1206 New Footprint=CAPACITOR SMD 1206
+Change Physical Footprint: Designator=C3 Old Footprint=CAPACITOR SMD 1206 New Footprint=CAPACITOR SMD 1206
+Change Physical Footprint: Designator=C4 Old Footprint=CAPACITOR SMD 1206 New Footprint=CAPACITOR SMD 1206
+Change Physical Footprint: Designator=C5 Old Footprint=CAPACITOR SMD 1206 New Footprint=CAPACITOR SMD 1206
+Change Physical Footprint: Designator=C6 Old Footprint=BigCapacitor New Footprint=BigCapacitor
+Change Physical Footprint: Designator=C7 Old Footprint=Ionistor New Footprint=Ionistor
+Change Physical Footprint: Designator=C8 Old Footprint=BigCapacitor New Footprint=BigCapacitor
+Change Physical Footprint: Designator=D1 Old Footprint=SODFL250X110-2N New Footprint=SODFL250X110-2N
+Change Physical Footprint: Designator=D2 Old Footprint=SODFL250X110-2N New Footprint=SODFL250X110-2N
+Change Physical Footprint: Designator=DA1 Old Footprint=SOT230P700X180-4N New Footprint=SOT230P700X180-4N
+Change Physical Footprint: Designator=DA2 Old Footprint=SOT230P700X180-4N New Footprint=SOT230P700X180-4N
+Change Physical Footprint: Designator=DD1 Old Footprint=TSOP65P640X120-20N New Footprint=TSOP65P640X120-20N
+Change Physical Footprint: Designator=JP1 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=R1 Old Footprint=Resistor SMD 1206 New Footprint=Resistor SMD 1206
+Change Physical Footprint: Designator=R2 Old Footprint=Resistor SMD 1206 New Footprint=Resistor SMD 1206
+Change Physical Footprint: Designator=R3 Old Footprint=Resistor SMD 1206 New Footprint=Resistor SMD 1206
+Change Physical Footprint: Designator=R4 Old Footprint=Resistor SMD 1206 New Footprint=Resistor SMD 1206
+Change Physical Footprint: Designator=R5 Old Footprint=Resistor SMD 1206 New Footprint=Resistor SMD 1206
+Change Physical Footprint: Designator=RP1 Old Footprint=Var Resistor New Footprint=Var Resistor
+Change Physical Footprint: Designator=V1 Old Footprint=PC817 New Footprint=PC817
+Change Physical Footprint: Designator=VT1 Old Footprint=SOT95P245X110-3N New Footprint=SOT95P245X110-3N
+Change Physical Footprint: Designator=X1 Old Footprint=SWIM Connector New Footprint=SWIM Connector
+Change Physical Footprint: Designator=X2 Old Footprint=KBD_Connector New Footprint=KBD_Connector
+Change Physical Footprint: Designator=X3 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=X4 Old Footprint=WH1601 New Footprint=WH1601
+Change Physical Footprint: Designator=X5 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=X6 Old Footprint=Jumper New Footprint=Jumper
+Change Physical Footprint: Designator=ZQ1 Old Footprint=KX-26 New Footprint=KX-26

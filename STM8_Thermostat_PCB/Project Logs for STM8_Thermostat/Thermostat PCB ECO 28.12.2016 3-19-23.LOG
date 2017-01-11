@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetDD1_17 Pin=X3-1
+Added Component: Designator=R5(Resistor SMD 1206)
+Added Pin To Net: NetName=NetDD1_17 Pin=R5-1
+Added Pin To Net: NetName=NetDD1_9 Pin=R5-2
+Added Pin To Net: NetName=NetDD1_6 Pin=X2-4
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Member To Class: ClassName=Schema Member=Component R5 Resistor (0.05W)

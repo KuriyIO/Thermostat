@@ -1,0 +1,41 @@
+Added Component: Designator=R6(Resistor SMD 1206)
+Added Component: Designator=R7(Resistor SMD 1206)
+Added Component: Designator=R8(Resistor SMD 1206)
+Added Component: Designator=R9(Resistor SMD 1206)
+Added Component: Designator=SB1(BUTTON SMD)
+Added Component: Designator=SB2(BUTTON SMD)
+Added Component: Designator=SB3(BUTTON SMD)
+Added Component: Designator=SB4(BUTTON SMD)
+Added Component: Designator=X7(KBD_Connector)
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=X7-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=SB1-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=X7-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=SB2-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=X7-3
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=SB3-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=X7-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=SB4-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetSB1_2 Pin=SB1-3
+Added Pin To Net: NetName=NetSB1_2 Pin=SB2-3
+Added Pin To Net: NetName=NetSB1_2 Pin=SB3-3
+Added Pin To Net: NetName=NetSB1_2 Pin=SB4-3
+Added Pin To Net: NetName=NetSB1_2 Pin=X7-5
+Added Net: Name=NetSB1_2
+Added Net: Name=VDD
+Added Class: Name=Keyboard

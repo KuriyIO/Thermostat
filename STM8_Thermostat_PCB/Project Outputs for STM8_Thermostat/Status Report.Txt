@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STM8_Thermostat.PrjPcb]
+   Generated File[Thermostat.TXT]
+   Generated File[Thermostat.LDP]
+   Generated File[Thermostat.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:23:00 On 09.01.2017

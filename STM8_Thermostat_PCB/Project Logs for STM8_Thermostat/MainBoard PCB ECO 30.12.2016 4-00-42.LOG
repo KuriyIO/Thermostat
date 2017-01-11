@@ -1,0 +1,8 @@
+Added Component: Designator=X2(KBD_Connector)
+Added Pin To Net: NetName=NetDD1_20 Pin=X2-1
+Added Pin To Net: NetName=NetDD1_19 Pin=X2-2
+Added Pin To Net: NetName=NetDD1_18 Pin=X2-3
+Added Pin To Net: NetName=NetDD1_6 Pin=X2-4
+Added Pin To Net: NetName=VDD Pin=X2-5
+Added Member To Class: ClassName=Schema Member=Component X2 KBD_Connector
+Added Room: Name=Schema
