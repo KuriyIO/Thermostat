@@ -1,6 +1,6 @@
 CAMtasticDXP Drill Report
 Serial Number:0000-00-00000
-Drill File: D:\Thermostat\STM8_Thermostat\cam.drl
+Drill File: D:\Thermostat\STM8_Thermostat_PCB\cam.drl
 Format: 2.3
 Units: English (Inch)
 Step & Repeat Codes Used: NO
@@ -9,6 +9,4 @@ Step & Repeat Codes Used: NO
 TOOL		SIZE		COUNT
 ====		======		=====
 
- 1 		0.0197		4
- 2 		0.0394		45
- 3 		0.0984		4
+ 1 		0.0118		8
